@@ -12,7 +12,7 @@ Support Android 4.4.x up to Android S Preview. ARMv7, x86 and ARM64 architecture
 # Download
 Download this repo as ZIP, or clone using any git tools
 
-Or download Releases here https://github.com/LGLTeam/Android-Mod-Menu/releases
+Or download Releases here https://github.com/ferdie3332-tech/LGL-MOD-MENU-3.2/releases
 
 **⚠️ Important Note:** This project can only be built using **AndroidIDE**. Download AndroidIDE here: https://androidide.com
 
